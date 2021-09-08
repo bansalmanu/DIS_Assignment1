@@ -344,10 +344,25 @@ nums       index     target
             try
             {
                 int[] target = new int[nums.Length];
-                for (int i=0; i < nums.Length; i++)
+                
+                for (int i = 0; i < nums.Length; i++)
                 {
-                    target[index[i]] = nums[i];
+                  
+                    if (index[i] == i)
+                    {
+                        target[i] = nums[i];
+                    }
+                    else
+                    {
+
+                        for (int j = i; j > index[i]; j--)
+                        {
+                            target[j] = target[j - 1];
+                        }
+                        target[index[i]] = nums[i];
+                    }
                 }
+
                 return target;
             }
             catch (Exception)
