@@ -1,0 +1,15 @@
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/bin/Debug/net5.0/DIS_Assignmnet1_Fall_2021.deps.json
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/bin/Debug/net5.0/DIS_Assignmnet1_Fall_2021.runtimeconfig.json
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/bin/Debug/net5.0/DIS_Assignmnet1_Fall_2021.runtimeconfig.dev.json
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/bin/Debug/net5.0/DIS_Assignmnet1_Fall_2021.dll
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/bin/Debug/net5.0/ref/DIS_Assignmnet1_Fall_2021.dll
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/bin/Debug/net5.0/DIS_Assignmnet1_Fall_2021.pdb
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/obj/Debug/net5.0/DIS_Assignmnet1_Fall_2021.csproj.AssemblyReference.cache
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/obj/Debug/net5.0/DIS_Assignmnet1_Fall_2021.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/obj/Debug/net5.0/DIS_Assignmnet1_Fall_2021.AssemblyInfoInputs.cache
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/obj/Debug/net5.0/DIS_Assignmnet1_Fall_2021.AssemblyInfo.cs
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/obj/Debug/net5.0/DIS_Assignmnet1_Fall_2021.csproj.CoreCompileInputs.cache
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/obj/Debug/net5.0/DIS_Assignmnet1_Fall_2021.dll
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/obj/Debug/net5.0/ref/DIS_Assignmnet1_Fall_2021.dll
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/obj/Debug/net5.0/DIS_Assignmnet1_Fall_2021.pdb
+/Users/manubansal/Downloads/Study/Fall21/DIS/Workspace/ProgAssignFirst/ProgAssignFirst/obj/Debug/net5.0/DIS_Assignmnet1_Fall_2021.genruntimeconfig.cache
